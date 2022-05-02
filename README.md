@@ -24,6 +24,13 @@ App kulcs generálása:
 php artisan key:generate
 ```
 
+## Szerver indítása
+
+```bash
+php artisan serve
+```
+
+
 ## Template
 
 Az email template-jét a `resources/views/mails/` könyvtárban találod `test.blade.php` néven.
